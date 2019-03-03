@@ -1,2 +1,2 @@
-# Machine Learning Inference
-I received a result of 80% for this coursework. My main contributions were in questions 1, 3, and 7. Included in this repository is the final report for the project, as well as the python code for the coursework in a .ipynb file.
+# Machine Learning: Inference
+A repository for the second coursework in my third year Machine Learning unit at the University of Bristol. I received a result of 80% for this coursework. Both the final report and the python code are included, in .pdf and .ipynb files, respectively.
